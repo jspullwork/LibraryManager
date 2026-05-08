@@ -1,0 +1,11 @@
+{
+  "banners": [
+    {
+      "id": "1",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest.png",
+      "clickUrl": "https://www.pluginboutique.com",
+      "alt": "Plugin Boutique"
+    }
+  ],
+  "rotationIntervalMs": 30000
+}
