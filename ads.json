@@ -5,7 +5,13 @@
       "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest.png",
       "clickUrl": "https://www.pluginboutique.com",
       "alt": "Plugin Boutique"
+    },
+    {
+      "id": "2",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_2.png",
+      "clickUrl": "https://www.doubleugames.com/",
+      "alt": "DoubleUGames"
     }
   ],
-  "rotationIntervalMs": 30000
+  "rotationIntervalMs": 5000
 }
