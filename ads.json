@@ -11,6 +11,42 @@
       "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_2.png",
       "clickUrl": "https://www.doubleugames.com/",
       "alt": "DoubleUGames"
+    },
+    {
+      "id": "3",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_3.png",
+      "clickUrl": "https://www.pluginboutique.com",
+      "alt": "Plugin Boutique"
+    },
+    {
+      "id": "4",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_4.png",
+      "clickUrl": "https://www.doubleugames.com/",
+      "alt": "DoubleUGames"
+    },
+    {
+      "id": "5",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_5.png",
+      "clickUrl": "https://www.pluginboutique.com",
+      "alt": "Plugin Boutique"
+    },
+    {
+      "id": "6",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_6.png",
+      "clickUrl": "https://www.doubleugames.com/",
+      "alt": "DoubleUGames"
+    },
+    {
+      "id": "7",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_7.png",
+      "clickUrl": "https://www.pluginboutique.com",
+      "alt": "Plugin Boutique"
+    },
+    {
+      "id": "8",
+      "imageUrl":"https://raw.githubusercontent.com/jspullwork/LibraryManager/main/ADBannerTest_8.png",
+      "clickUrl": "https://www.doubleugames.com/",
+      "alt": "DoubleUGames"
     }
   ],
   "rotationIntervalMs": 5000
